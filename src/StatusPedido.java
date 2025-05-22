@@ -1,1 +1,3 @@
-P
+public class StatusPedido {
+  
+}
