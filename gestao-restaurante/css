@@ -1,0 +1,8 @@
+GestaoRestaurante/
+└── src/
+    ├── model/
+    │   └── Cliente.java
+    ├── service/
+    │   └── ClienteService.java
+    └── main/
+        └── Main.java
