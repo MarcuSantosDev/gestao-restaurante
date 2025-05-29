@@ -31,7 +31,7 @@ public class Main {
             System.out.println("5. Contratar funcionário");
             System.out.println("6. Listar funcionários");
             System.out.println("7. Cadastrar gerente");
-            System.out.println("8. Listar gerentes");
+            System.out.println("8. Mostrar gerente");
             System.out.println("9. Fechar comanda (gerente)");
             System.out.println("10. Sair");
             System.out.print("Escolha uma opção: ");
